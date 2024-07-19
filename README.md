@@ -32,4 +32,4 @@ This project serves as a foundation for sentiment analysis tasks on textual data
 - Python 3
 - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, wordcloud
 
-#Author_Shashank_Shekhar_Pandey
+#Author_Ashutosh_Kumar
